@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mpohorenyi/MyBike-Landing-Page">
+  <a href="https://mpohorenyi.github.io/2048-Game/">
     <img src="src/images/2048.svg" alt="Logo" width="80" height="80">
   </a>
 
